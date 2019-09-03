@@ -3,14 +3,21 @@ using System.Collections.Generic;
 
 namespace GradeBook 
 {
-    public class Book 
+    public delegate void GradeAddedDelegate(object sender, EventArgs args);
+
+    public class NamedObject {
+        public string Name {
+            get;set;
+        }
+    }
+    public class Book : NamedObject
     {
         public Book(string name)
         {
             grades = new List<double>();
             Name = name;
         }
-        public void AddLetterGrade(char letter) {
+        public void AddGrade(char letter) {
             switch(letter) {
                 case 'A':
                     AddGrade(90);
@@ -33,11 +40,16 @@ namespace GradeBook
         {
             if (grade <= 100 && grade >= 0) {
                 grades.Add(grade);
+                if (GradeAdded != null) {
+                    GradeAdded(this, new EventArgs());
+                }
             }
             else {
                 throw new ArgumentException($"Invalid {nameof(grade)}");
             }   
         }
+
+        public event GradeAddedDelegate GradeAdded;
 
         public Statistics GetStatistics() {
             var result = new Statistics();
@@ -78,6 +90,8 @@ namespace GradeBook
             return result;
         }
         private List<double> grades;
-        public string Name;
+
+        public const string CATEGORY = "Science";
+
     }
 }
