@@ -1,0 +1,17 @@
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.deps.json
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.json
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.runtimeconfig.dev.json
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.dll
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csprojAssemblyReference.cache
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfoInputs.cache
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfo.cs
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.dll
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.dll
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.pdb
+C:\Users\a454625\DEV_Practice\c-sharp-fundamentals\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CopyComplete
